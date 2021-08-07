@@ -1,25 +1,27 @@
 {
-  "name": "linear-data-structures",
-  "version": "1.0.0",
-  "description": "",
-  "main": "nodes.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dimitris-kaikonidis/linear-data-structures.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dimitris-kaikonidis/linear-data-structures/issues"
-  },
-  "homepage": "https://github.com/dimitris-kaikonidis/linear-data-structures#readme",
-  "dependencies": {
-    "ts-node": "^10.1.0"
-  },
-  "devDependencies": {
-    "@types/node": "^16.4.13"
-  }
+    "name": "linear-data-structures",
+    "version": "1.0.0",
+    "description": "",
+    "main": "nodes.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dimitris-kaikonidis/linear-data-structures.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dimitris-kaikonidis/linear-data-structures/issues"
+    },
+    "homepage": "https://github.com/dimitris-kaikonidis/linear-data-structures#readme",
+    "dependencies": {
+        "ts-node": "^10.1.0",
+        "typescript": "^4.3.5"
+    },
+    "devDependencies": {
+        "@types/node": "^16.4.13"
+    },
+    "type": "module"
 }
